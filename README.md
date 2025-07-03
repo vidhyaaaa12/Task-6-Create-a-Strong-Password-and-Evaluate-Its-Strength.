@@ -56,23 +56,12 @@ A strong, complex password typically includes:
 -  No dictionary words or personal information
 
 
-|  Factor              | Security Impact                                                |
+|  Factor                | Security Impact                                                      |
 |------------------------|--------------------------------------------------------------------|
 | **Length**             | Longer passwords take exponentially more time to brute-force       |
 | **Character Variety**  | Increases the number of possible combinations                      |
 | **Unpredictability**   | Prevents pattern-based or dictionary attacks                       |
 | **No Personal Info**   | Avoids social engineering or educated guesses                      |
-
-
-###  Crack Time Comparison
-
-| Password Example            |  Estimated Crack Time         |  Comment             |
-|-----------------------------|------------------------------|------------------------|
-| `12345678`                  | < 1 second                   | Extremely weak         |
-| `Summer2024`                | ~2 minutes                   | Predictable pattern    |
-| `S!mpl3P@ssw0rd`            | ~3 hours                     | Moderate strength      |
-| `B!ueDr@gon#17`             | ~6 years                     | Strong                 |
-| `Correct#Horse_2025!`       | 100+ centuries               | Very Strong (ideal)    |
 
 ###  Key Takeaways
 
